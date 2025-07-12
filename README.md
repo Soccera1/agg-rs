@@ -33,7 +33,7 @@
 
 1.  Clone the repository:
     ```sh
-    git clone https://github.com/your-username/agg-rs.git
+    git clone https://github.com/soccera1/agg-rs.git
     cd agg-rs
     ```
 2.  Build the project using Cargo:

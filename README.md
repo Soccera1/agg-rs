@@ -1,17 +1,17 @@
-# agg-rs
+# 🎮 agg-rs
 
 `agg-rs` is a fast-paced, terminal-based arithmetic game that challenges your math skills against the clock. Built with the performance and safety of Rust, it provides a simple yet engaging way to practice and test your calculation abilities.
 
-## Features
+## ✨ Features
 
-- **Timed Challenges**: Set your own playtime and solve as many problems as you can before time runs out.
-- **Dynamic Problem Generation**: Faces a continuous stream of randomly generated addition, subtraction, multiplication, and division problems.
-- **Customizable Difficulty**: Adjust the maximum value of numbers used in problems to match your skill level.
-- **Performance Tracking**: Get a final score and accuracy percentage to track your improvement.
-- **In-Game Tutorial**: An optional tutorial to guide you through the gameplay.
-- **Personalized Experience**: The game greets you by your username for a friendly touch.
+- ⏱️ **Timed Challenges**: Set your own playtime and solve as many problems as you can before time runs out.
+- 🎲 **Dynamic Problem Generation**: Faces a continuous stream of randomly generated addition, subtraction, multiplication, and division problems.
+- 🔧 **Customizable Difficulty**: Adjust the maximum value of numbers used in problems to match your skill level.
+- 📊 **Performance Tracking**: Get a final score and accuracy percentage to track your improvement.
+- 📖 **In-Game Tutorial**: An optional tutorial to guide you through the gameplay.
+- 👋 **Personalized Experience**: The game greets you by your username for a friendly touch.
 
-## How to Play
+## 🚀 How to Play
 
 1.  **Start the Game**: Launch the application from your terminal.
 2.  **View Tutorial (Optional)**: When prompted, you can choose to view a tutorial that explains the game mechanics.
@@ -22,14 +22,14 @@
 4.  **Solve Problems**: Once the game starts, input your answers to the arithmetic problems as they appear.
 5.  **See Your Results**: After the time expires, the game will display your final score and accuracy.
 
-## Building from Source
+## 🛠️ Building from Source
 
-### Prerequisites
+### ✅ Prerequisites
 
 - [Rust toolchain](https://www.rust-lang.org/tools/install) (includes `rustc` and `cargo`)
 - A compatible C compiler (like GCC or Clang), which is required by a build dependency.
 
-### Compilation
+### 📦 Compilation
 
 1.  Clone the repository:
     ```sh
@@ -49,6 +49,6 @@
     cargo run
     ```
 
-## License
+## 📄 License
 
 This project is licensed under the terms of the LICENSE file.

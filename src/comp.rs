@@ -1,3 +1,3 @@
 #define main c_main
-#include "agg.c"
+#include "agg.rs"
 #undef main
